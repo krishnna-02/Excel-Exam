@@ -20,13 +20,6 @@ This dashboard helps identify behavioral trends and supports data-driven decisio
 - Create an interactive dashboard for easy data exploration.
 
 ---
-
-## 📊 Dashboard Preview
-
-<p align="center">
-  <img src="Teen%20Mental%20Health%20Dashboard.png" width="100%">
-</p>
-
 ---
 
 # 📈 Key Performance Indicators (KPIs)
